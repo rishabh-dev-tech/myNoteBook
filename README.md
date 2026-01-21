@@ -17,22 +17,4 @@ An online web platform where you can create, edit, upload, delete your notes/inf
 - Backend: Node.js, Express, MongoDB, Mongoose, JWT
 - Other: Axios, bcryptjs, cors
 
-## Installation
-
-### Backend
-
-```bash
-cd backend
-npm install
-npm run start
-
----
-
-## 4️⃣ Initialize Git & Commit
-
-Open terminal in `notebook/` folder:
-
-```bash
-git init
-git add .
-git commit -m "Initial commit: frontend + backend structure"
+Created by Rishabh Srivastav
